@@ -1,0 +1,16 @@
+{
+  "name": "@oludotcom/eslint-config-tiny",
+  "version": "1.0.0",
+  "description": "eslint config ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "tiny"
+  ],
+  "author": "olusola",
+  "license": "MIT"
+}
